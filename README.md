@@ -23,3 +23,11 @@ run the victim_side_code.py :
 5. keylogging feature . 
 6. fetching  system information .
 
+# Exploitation with ICMP Tunneling to deliver the malicious payload with hiding in the harmless lookinig icmp protocol 
+1. ICMP_Server file.
+2. ICMP_Client file 
+3. It does'n require the port coVfiguration, As icmp workes on Layer 3/of the TCP/IP model 
+4. Works same as of reverse shell ised to write In Py-RAT aove. 
+5. server should executed on attacker 's machine  , while client should e on client machine . 
+6. Don't missuse.
+
