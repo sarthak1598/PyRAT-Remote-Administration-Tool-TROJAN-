@@ -26,8 +26,10 @@ run the victim_side_code.py :
 # Exploitation with ICMP Tunneling to deliver the malicious payload with hiding in the harmless lookinig icmp protocol 
 1. ICMP_Server file.
 2. ICMP_Client file 
-3. It does'n require the port coVfiguration, As icmp workes on Layer 3/of the TCP/IP model 
-4. Works same as of reverse shell ised to write In Py-RAT aove. 
-5. server should executed on attacker 's machine  , while client should e on client machine . 
-6. Don't missuse.
+3. It does'n require the port coVfiguration, As icmp workes on Layer 3/of the TCP/IP model .
+4. ICMP is generally not locked on networks and specially on medium to large enterprise networks .
+5. Due to trouleshooting purposes . 
+6. Works same as of reverse shell ised to write In Py-RAT aove. 
+7. server should executed on attacker 's machine  , while client should e on client machine . 
+8. Don't missuse the script. ;) . 
 
