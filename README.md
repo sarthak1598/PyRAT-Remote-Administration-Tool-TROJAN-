@@ -17,13 +17,15 @@ run the victim_side_code.py :
 # Further scope of improvement and features to be added 
 
 1. Remote file transfer capability .
-2. privelage escalation 
+2. privelage escalation Check script to be added into the tool so to directly running the script automate the proccess of detecting the  possible vulnerbilities in the system , most specifically in the operating system which can be exploited to gain the shell Privileges . 
+
 3. executable payload generation  for windows like operating system to bind the payload with the normal system binaries. 
 4. Scheduled Screen capturing . 
-5. keylogging feature . 
-6. fetching  system information .
+5. Scheduled keylogging feature . 
+6. fetching  system information so giving it a complete featchers of the trojan like software . 
 
-# Exploitation with ICMP Tunneling to deliver the malicious payload with hiding in the harmless lookinig icmp protocol 
+# Exploitation with ICMP Tunneling to deliver the malicious payload with hiding in the harmless lookinig icmp protocol bypassing the firewalls 
+
 1. ICMP_Server file.
 2. ICMP_Client file 
 3. It does'n require the port coVfiguration, As icmp workes on Layer 3/of the TCP/IP model .
