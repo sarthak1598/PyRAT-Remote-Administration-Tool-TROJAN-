@@ -24,6 +24,11 @@ run the victim_side_code.py :
 5. Scheduled keylogging feature . 
 6. fetching  system information so giving it a complete featchers of the trojan like software . 
 
+7. Till now it's working is liited to only private local area networks(LAN) , Required to experiment with Port forwarding teqnique to 
+    make it work over the WAN(Wide area network) like internet . 
+ 
+8. Other feature required to be added into the tool is to make the persistent backdoor into the remote machine . 
+
 # Exploitation with ICMP Tunneling to deliver the malicious payload with hiding in the harmless lookinig icmp protocol bypassing the firewalls 
 
 1. ICMP_Server file.
